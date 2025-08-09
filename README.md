@@ -41,8 +41,8 @@
 
 ## 📫 Connect with Me
 [![Email](https://img.shields.io/badge/Email-judithmiteil%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:judithmiteil@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)]([YourLinkedInLink](https://www.linkedin.com/in/judith-mitei-b05110295?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blueviolet?style=for-the-badge&logo=google-chrome)]([YourPortfolioLink](https://miteijudith.portfoliobox.net/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/judith-mitei-b05110295?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blueviolet?style=for-the-badge&logo=google-chrome)](https://miteijudith.portfoliobox.net/)
 
 ---
 
